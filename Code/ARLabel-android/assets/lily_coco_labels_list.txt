@@ -1,0 +1,6 @@
+???
+person
+bottle
+laptop
+book
+clock
